@@ -1,14 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T09:49:20.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="_yUbxL5blIC0H4pG4vqO" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-11T11:22:26.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="8xVII8M23kZdAMGEFSVP" version="13.6.2" type="github">
   <diagram id="bDVcDtDVuxwKPNvDXKbM" name="Page-1">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="os2s5k112g7XhEV4XQ2u-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="210" y="170" width="150" height="150" as="geometry" />
+        <mxCell id="-XcCID9pLYY5KuJD8jUO-1" value="hxwt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-XcCID9pLYY5KuJD8jUO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="UL90InWG_5dV-AAJ6nig-1" value="gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-2" value="transmid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-3" value="行情发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-4" value="行情主站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-5" value="mobihq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-6" value="mobiwt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-7" value="mobipush" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-8" value="mobiroute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-9" value="mobiauth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-10" value="mobigw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-11" value="柜台RS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-12" value="中台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UL90InWG_5dV-AAJ6nig-13" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
