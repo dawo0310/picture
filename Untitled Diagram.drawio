@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T02:19:53.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" version="13.6.2" etag="DSbtKmphBbxou-oDQt8p" type="github"><diagram id="4kTabvE3r2IqMa7jgj-U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-11T05:33:13.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="kOPIb0flrKOmWeS1cDg5" version="13.6.2" type="github">
+  <diagram id="4kTabvE3r2IqMa7jgj-U" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;手机主站1-联通&lt;/font&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="95" y="250" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;手机主站2-电信&lt;/font&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-11" value="mobihq2:10002" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="369" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-13" value="mobiwt:20001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="389" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-14" value="mobigw:9528" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="429" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-15" value="mobiauth:9529" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="449" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-16" value="mobihq1:10001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="349" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-17" value="mobiroute:9550" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="469" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-18" value="mobipush:9555" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="489" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-19" value="mobigw:1180" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="409" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-20" value="mobihq2:10002" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="368" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-21" value="mobiwt:20001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="388" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-22" value="mobigw:9528" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="428" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-23" value="mobiauth:9529" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="448" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-24" value="mobihq1:10001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="348" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-25" value="mobiroute:9550" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="468" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-26" value="mobipush:9555" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="488" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-27" value="mobigw:1180" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="408" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-28" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;委托主站1&lt;/font&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="585" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;委托主站2&lt;/font&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="268" y="585" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-30" value="hxwt:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="680" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="700" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usb8Pv_BE7QgAmWgQBCe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="720" width="105" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
